@@ -1,8 +1,9 @@
 /**
- * scrum-board
+ * sticker-board
  *
- * @category   scrum-board
+ * @category   sticker-board
  * @author     Vaibhav Mehta <vaibhav@decodingweb.com>
+ * @author     François Le Rolland <franlero@free.fr> 
  * @copyright  Copyright (c) 2016 Vaibhav Mehta <https://github.com/i-break-codes>
  * @license    http://www.opensource.org/licenses/mit-license.html  MIT License
  * @version    1.0 Beta
